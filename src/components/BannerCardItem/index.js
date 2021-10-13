@@ -3,7 +3,7 @@ import './index.css'
 const BannerElement = props => {
   const {bannerCard} = props
   // eslint-disable-next-line
-  const {headerText, description, className, id} = bannerCard
+  const {headerText, description, className} = bannerCard
 
   return (
     <li className={className}>

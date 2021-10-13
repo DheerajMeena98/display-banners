@@ -1,4 +1,4 @@
-In this project, let's build **Reusable Banners** by applying the concepts we have learned till now.
+In this project, let's build **Reusable Banners** 
 
 ### Refer to the image below:
 
